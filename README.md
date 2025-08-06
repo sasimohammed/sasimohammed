@@ -2,7 +2,7 @@
 
 
 
-###  About Me
+
 
 I'm a passionate developer with strong experience in both frontend technologies and game development. As a Senior Frontend Developer, I specialize in building modern, responsive user interfaces using React, Tailwind CSS, and Framer Motion. I'm also a Junior Game Developer, actively exploring game creation with Unity and programming in C#. I'm always eager to learn new technologies and bring creative ideas to life through code.
 
