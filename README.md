@@ -6,14 +6,16 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=sasimohammed&show_icons=true&count_private=true&theme=dracula" height="150" />
-      <br />
+    </td>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sasimohammed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/76003a62-89db-4c60-aa9c-14b3393b47e4" height="300" />
+      <img src="https://github.com/user-attachments/assets/76003a62-89db-4c60-aa9c-14b3393b47e4" height="150" />
     </td>
   </tr>
 </table>
+
 
 
 ###
